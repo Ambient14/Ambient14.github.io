@@ -1,4 +1,8 @@
 h1 {
 	text-align: center;
-	color: red;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+	background-image: url("images/FBPS 015.jpg")
 }
