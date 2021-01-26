@@ -15,7 +15,6 @@ body {
 header {
 	opacity: 0.98;
 	margin: 0px;
-	height: 6vw;
 	margin: 0px;
 	border-bottom: 0.5vw solid white;
 }
@@ -24,13 +23,40 @@ header {
 	opacity: 0.95;	
 	height: 100%;
 	margin: 0px;
-	padding: 0.25vw;
+	padding: 0.5vw;
 }
 
 p {
 	font-family: 'Noto Sans JP', sans-serif;
 	margin: 0px 	;
-	color: white;
+	color: black;
 	font-size: 1.5vw;
+}
+
+.text_div {
+	background-color: white;
+	padding: 1vw;
+	border-radius: 3px;
+	margin bottom: 6vh;
+}
+.button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 1.5vw 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5vw;
+  margin: 0.25vw 0.35vw;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+.button:hover {
+	background-color: lightgrey;
+}	
+
+.link_space {	
+	text-align: center;
 }
 
