@@ -5,12 +5,14 @@ h1 {
 }
 
 body {
-	background-image: url("images/FBPS015.jpg");
+	background-image: url("../images/FBPS015.jpg");
+	background-size: cover;
 }
 
 header {
 	background: grey;
 	border-radius: 5px;
+	opacity: 0.9;
 }
 section {
 	background-color: grey;
