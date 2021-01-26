@@ -7,30 +7,29 @@ h1 {
 	padding-bottom: 20px;
 }
 body {
-	background-color: linear-gradient(#000c6e, #000f89)
+	background-image: linear-gradient(#000c6e, #3C3CC7);
 	height:100vh;
 	margin: 0px;
 }
 
 header {
-	background: #000f89;
 	opacity: 0.98;
 	margin: 0px;
 	height: 6vw;
 	margin: 0px;
+	border-bottom: 0.5vw solid white;
 }
 
 .main_div {
-	background-image: linear-gradient(#000c6e, #000f89);
 	opacity: 0.95;	
 	height: 100%;
 	margin: 0px;
-	padding: 0px;
+	padding: 0.25vw;
 }
 
 p {
 	font-family: 'Noto Sans JP', sans-serif;
-	margin: 0px;
+	margin: 0px 	;
 	color: white;
 	font-size: 1.5vw;
 }
