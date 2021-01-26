@@ -6,3 +6,7 @@ h1 {
 body {
 	background-image: url("/../../images/FBPS 015.jpg");
 }
+
+header {
+	background-color: linear-gradient(blue, lightblue)
+}
