@@ -15,7 +15,6 @@ body {
 	background-image: linear-gradient(#000c6e, #3C3CC7);
 	height:75%;
 	margin: 0px;
-	
 }
 
 header {
@@ -67,6 +66,6 @@ p {
 footer {
 	height: 25%;
 	border-top: white solid 0.5vw;
-	padding:10px;
+	padding:1.5vw;
 }
 
