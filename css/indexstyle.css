@@ -69,4 +69,9 @@ footer {
 	padding:1.5vw;
 	border-bottom: white solid 0.5vw;
 }
+.container {\
+	height: 30rem;
+	background-color: lightgrey;
+
+}
 
