@@ -4,7 +4,6 @@ h1 {
 	font-family: 'Noto Sans JP', sans-serif;
 	color: white;
 	font-size: 30px;
-	padding-bottom: 20px;
 }
 h2 {
 	font-family: 'Noto Sans JP', sans-serif;
@@ -12,9 +11,10 @@ h2 {
 	font-size: 16px;
 }
 body {
-	background-image: linear-gradient(#C0C0C0, #808080);
-	height:75%;
+	/*background-image: linear-gradient(#808080,#C0C0C0);*/
+	background-color: darkgrey;
 	margin: 0px;
+	height: 90%;
 }
 
 header {
@@ -24,9 +24,10 @@ header {
 }
 
 .main_div {
-	height: 75%;
-	margin: 0px;
-	padding: 0.5vw;
+	margin: 10px;
+	padding: 1vw;
+	background-color: #696969;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 p {
@@ -61,17 +62,24 @@ p {
 }	
 
 .link_space {	
+	border-top: white solid 0.5vw;
 	text-align: center;
 }
-footer {
-	height: 25%;
+.footer {
+	width: 100%;
+	height: 15	%;
 	border-top: white solid 0.5vw;
 	padding:1.5vw;
 	border-bottom: white solid 0.5vw;
+	position: fixed;
 }
-.container {\
-	height: 30rem;
-	background-color: lightgrey;
 
+.titlebox {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-color: #696969;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-bottom: 1%;
+	margin-top: 1%;
 }
 
