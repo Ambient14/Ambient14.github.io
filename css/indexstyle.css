@@ -11,10 +11,8 @@ h2 {
 	font-size: 16px;
 }
 body {
-	/*background-image: linear-gradient(#808080,#C0C0C0);*/
 	background-color: darkgrey;
 	margin: 0px;
-	height: 90%;
 }
 
 header {
