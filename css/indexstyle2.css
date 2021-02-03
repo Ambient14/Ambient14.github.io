@@ -1,0 +1,87 @@
+body {
+	height: 100%;
+	background-image: url("../images/FBPS015.jpg");
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	vertical-align: center;
+	float: middle;
+	font-family: 'Roboto Mono', monospace;
+	color: white;
+	font-size: 200%;
+	padding-top: 2%;
+}
+
+.titlebox {
+	height: 26vh;
+	width: 100%;
+	background-color: #696969;
+	opacity: 0.98;
+}
+.content {
+	height: 67vh;
+	width:92%;
+	background-color: white;
+	margin: auto;
+	opacity: 0.98;
+	padding: 0.1% 1% 1% 1%;
+	margin-top: 3vh
+}
+.footer {
+	height: 15vh;
+	width: 100%;
+	background-color: grey;
+	margin:auto;
+	opacity: 0.98;
+}
+.logo {
+	height: 50%;
+	padding: 0.5% 0 0.5% 0.5%;
+	float: left;
+	border-radius: 20%;
+	margin-right: -50%;
+}
+.para {
+	background-color: #696969;
+	height:95%;
+}
+
+.button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 1.5vw 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0.25vw 0.35vw;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 3px;
+  font-family: 'Roboto Mono', monospace;	
+
+}
+.button:hover {
+	background-color: lightgrey;
+}
+.link_space {	
+	border-top: white solid 0.5vw;
+	border-bottom: white solid 0.5vw;
+	text-align: center;
+
+}	
+
+p {
+	font-family: 'Roboto Mono', monospace;
+	color: white;
+	font-size: 20px;
+}
+
+h2 {
+	font-family: 'Roboto Mono', monospace;
+	color: white;
+	font-size: 16px;
+}
