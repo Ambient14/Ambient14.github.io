@@ -1,5 +1,5 @@
 body {
-	height: 100vh;
+	height: 100%;
 	background-image: url("../images/FBPS015.jpg");
 	margin: 0;
 }
@@ -35,6 +35,10 @@ h1 {
 	background-color: grey;
 	margin:auto;
 	opacity: 0.98;
+	position: fixed;
+  	bottom: 10px;
+  	border-top: white solid 0.5vw;
+	border-bottom: white solid 0.5vw;
 }
 .logo {
 	width: 6%;
@@ -45,7 +49,7 @@ h1 {
 }
 .para {
 	background-color: #696969;
-	height:95%;
+	height:97%;
 }
 
 .button {
