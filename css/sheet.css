@@ -1,0 +1,12 @@
+body {
+	width:100vw;
+	height: 40vh;
+	margin: 0;
+}
+
+.sheet {
+	width: 90%;
+	height: 100%;
+	background-color: blue;
+	margin: auto;
+}

@@ -1,0 +1,49 @@
+.titlebox {
+	height: 26%;
+	width: 100%;
+	background-color: #696969;
+	opacity: 0.98;
+	font-size: 2vw;
+}
+.titlefont {
+	text-align: center;
+	vertical-align: center;
+	float: middle;
+	font-family: 'Roboto Mono', monospace;
+	color: white;
+	padding-top: 2%;
+	font-size: 140%;
+}
+.logo {
+	width: 6%;
+	padding: 0.5% 0 0.5% 0.5%;
+	float: left;
+	border-radius: 20%;
+	margin-right: -50%;
+}
+
+.button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 1.5vw 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  margin: 0.25vw 0.35vw;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 3px;
+  font-family: 'Roboto Mono', monospace;	
+
+}
+.button:hover {
+	background-color: lightgrey;
+}
+.link_space {	
+	border-top: white solid 0.5vw;
+	border-bottom: white solid 0.5vw;
+	text-align: center;
+
+}	
